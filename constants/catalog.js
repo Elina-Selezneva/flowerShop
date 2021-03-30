@@ -1,0 +1,86 @@
+    const CATALOG = [
+        {
+            id: "el1",
+            name: "КУСТОВЫЕ ХРИЗАНТЕМЫ 5 ШТ",
+            img: "img/img_catalog/hrizantema.jpg",
+            price: 2100,
+        },
+        {
+            id: "el2",
+            name: "ШИКАРНОЙ",
+            img: "img/img_catalog/shik.jpg",
+            price: 2830,
+        },
+        {
+            id: "el3",
+            name: "ДЛЯ НЕЁ",
+            img: "img/img_catalog/for_her.jpg",
+            price: 2197,
+        },
+        {
+            id: "el4",
+            name: "ЖЕМЧУЖИНА НИЛА",
+            img: "img/img_catalog/el4.jpg",
+            price: 3100,
+        },
+        {
+            id: "el5",
+            name: "БЕЛЫЕ РОЗЫ 15 ШТ",
+            img: "img/img_catalog/e5.jpg",
+            price: 2330,
+        },
+        {
+            id: "el6",
+            name: "101 ТЮЛЬПАН МИКС",
+            img: "img/img_catalog/e6.jpg",
+            price: 9197,
+        },
+        {
+            id: "el7",
+            name: "МЕЧТАЮ О ТЕБЕ",
+            img: "img/img_catalog/e7.jpg",
+            price: 3800,
+        },
+        {
+            id: "el8",
+            name: "БУКЕТ НЕВЕСТЫ \"В ОБЪЯТИЯХ\"",
+            img: "img/img_catalog/e8.jpg",
+            price: 4330,
+        },
+        {
+            id: "el9",
+            name: "БУКЕТ НЕВЕСТЫ \"С ПЕРВОГО ВЗГЛЯДА\"\n",
+            img: "img/img_catalog/e9.jpg",
+            price: 3797,
+        },
+        {
+            id: "el10",
+            name: "МОЙ КОСМОС",
+            img: "img/img_catalog/e10.jpg",
+            price: 2500,
+        },
+        {
+            id: "el11",
+            name: "БУКЕТ ИЗ 101 СИНЕЙ РОЗЫ",
+            img: "img/img_catalog/e11.jpg",
+            price: 21530,
+        },
+        {
+            id: "el12",
+            name: "БУКЕТ ИЗ 51 ОРАНЖЕВОЙ РОЗЫ",
+            img: "img/img_catalog/e12.jpg",
+            price: 6197,
+        },
+        {
+            id: "el13",
+            name: "РОЗОВЫЕ СНЫ",
+            img: "img/img_catalog/e13.jpg",
+            price: 1530,
+        },
+        {
+            id: "el14",
+            name: "БУКЕТ ИЗ 49 КРАСНЫХ ТЮЛЬПАНОВ",
+            img: "img/img_catalog/e14.jpg",
+            price: 5197,
+        },
+    ];
